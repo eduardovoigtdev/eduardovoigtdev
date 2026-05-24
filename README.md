@@ -6,30 +6,6 @@ Me chamo Eduardo Voigt, sou desenvolvedor de software com foco em projetos web, 
 
 Atualmente trabalho com desenvolvimento web, landing pages, sites institucionais, e-commerce e sistemas independentes. Também venho aprofundando meus estudos em back-end, Java, Spring Boot, SQL e arquitetura de aplicações.
 
-<p>
-  <a href="https://eduardovoigt.com/" target="_blank">
-    <img 
-      alt="Portfolio" 
-      title="Portfolio" 
-      src="https://img.shields.io/badge/Portfolio-eduardovoigt.com-8B0000?style=for-the-badge&logo=vercel&logoColor=white"
-    />
-  </a>
-  <a href="https://www.linkedin.com/in/eduardovoigt/" target="_blank">
-    <img 
-      alt="LinkedIn" 
-      title="LinkedIn" 
-      src="https://img.shields.io/badge/LinkedIn-Eduardo%20Voigt-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-    />
-  </a>
-  <a href="https://github.com/eduardovoigtdev" target="_blank">
-    <img 
-      alt="GitHub" 
-      title="GitHub" 
-      src="https://img.shields.io/badge/GitHub-eduardovoigtdev-181717?style=for-the-badge&logo=github&logoColor=white"
-    />
-  </a>
-</p>
-
 ---
 
 ## 🤖 Linguagens e Tecnologias
@@ -150,11 +126,11 @@ Atualmente trabalho com desenvolvimento web, landing pages, sites institucionais
   <img 
     alt="GitHub Stats" 
     height="180em" 
-    src="https://github-readme-stats.vercel.app/api?username=eduardovoigtdev&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&hide_border=true" 
+    src="https://vercel.app/api?username=eduardovoigtdev&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&hide_border=true" 
   />
   <img 
     alt="Top Languages" 
     height="180em" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardovoigtdev&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=10&hide_border=true" 
+    src="https://vercel.app/api/top-langs/?username=eduardovoigtdev&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=10&hide_border=true" 
   />
 </p>
