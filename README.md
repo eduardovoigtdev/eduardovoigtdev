@@ -68,14 +68,6 @@ Atualmente trabalho com desenvolvimento web, landing pages, sites institucionais
 />
 <img 
   align="left" 
-  alt="React" 
-  title="React"
-  width="32px" 
-  style="padding-right: 10px;" 
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" 
-/>
-<img 
-  align="left" 
   alt="Next.js" 
   title="Next.js"
   width="32px" 
@@ -116,14 +108,6 @@ Atualmente trabalho com desenvolvimento web, landing pages, sites institucionais
 />
 <img 
   align="left" 
-  alt="Python" 
-  title="Python"
-  width="32px" 
-  style="padding-right: 10px;" 
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" 
-/>
-<img 
-  align="left" 
   alt="PHP" 
   title="PHP"
   width="32px" 
@@ -153,14 +137,6 @@ Atualmente trabalho com desenvolvimento web, landing pages, sites institucionais
   width="32px" 
   style="padding-right: 10px;" 
   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" 
-/>
-<img 
-  align="left" 
-  alt="WordPress" 
-  title="WordPress"
-  width="32px" 
-  style="padding-right: 10px;" 
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" 
 />
 
 <br/>
