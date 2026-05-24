@@ -114,3 +114,22 @@ Atualmente trabalho com desenvolvimento web, landing pages, sites institucionais
   style="padding-right: 10px;" 
   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" 
 />
+
+---
+
+## 📌 Atualmente estudando
+
+- Java
+- Spring Boot
+- SQL
+- Back-end development
+- APIs REST
+- Arquitetura de aplicações
+
+---
+
+## 🚀 Projetos em destaque
+
+Confira meus projetos e trabalhos recentes no portfólio:
+
+[eduardovoigt.com](https://eduardovoigt.com)
