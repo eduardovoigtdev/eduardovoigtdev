@@ -114,23 +114,3 @@ Atualmente trabalho com desenvolvimento web, landing pages, sites institucionais
   style="padding-right: 10px;" 
   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" 
 />
-
-<br/>
-<br/>
-
----
-
-## 📊 Estatísticas
-
-<p>
-  <img 
-    alt="GitHub Stats" 
-    height="180em" 
-    src="https://vercel.app/api?username=eduardovoigtdev&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&hide_border=true" 
-  />
-  <img 
-    alt="Top Languages" 
-    height="180em" 
-    src="https://vercel.app/api/top-langs/?username=eduardovoigtdev&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=10&hide_border=true" 
-  />
-</p>
