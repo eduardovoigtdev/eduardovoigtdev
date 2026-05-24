@@ -1,10 +1,8 @@
 # 👨🏻‍💻 Eduardo Voigt
 
-`Software Developer`
+Sou `desenvolvedor de software` com foco em projetos web, sistemas práticos e soluções digitais voltadas para negócios.
 
-Me chamo Eduardo Voigt, sou desenvolvedor de software com foco em projetos web, sistemas práticos e soluções digitais voltadas para negócios.
-
-Atualmente trabalho com desenvolvimento web, landing pages, sites institucionais, e-commerce e sistemas independentes. Também venho aprofundando meus estudos em back-end, Java, Spring Boot, SQL e arquitetura de aplicações.
+Atualmente trabalho com desenvolvimento web, landing pages, sites institucionais, e-commerce e sistemas independentes.<br>Também venho aprofundando meus estudos em back-end, Java, Spring Boot, SQL e arquitetura de aplicações.
 
 ---
 
@@ -115,21 +113,12 @@ Atualmente trabalho com desenvolvimento web, landing pages, sites institucionais
   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" 
 />
 
----
-
-## 📌 Atualmente estudando
-
-- Java
-- Spring Boot
-- SQL
-- Back-end development
-- APIs REST
-- Arquitetura de aplicações
+<br><br>
 
 ---
 
 ## 🚀 Projetos em destaque
 
-Confira meus projetos e trabalhos recentes no portfólio:
+Confira meus projetos e trabalhos recentes:
 
-[eduardovoigt.com](https://eduardovoigt.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-eduardovoigt.com-8B0000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://eduardovoigt.com/)
