@@ -19,7 +19,3 @@ I currently work with web development, landing pages, institutional websites, e-
 <img align="left" alt="PostgreSQL" title="PostgreSQL" width="32px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
 <img align="left" alt="Git" title="Git" width="32px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 </p><br><br>
-
----
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eduardovoigtdev&" alt="eduardovoigtdev" /></p>
