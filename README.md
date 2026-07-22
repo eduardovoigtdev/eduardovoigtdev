@@ -1,5 +1,5 @@
 <h2 align="left">Hey, I'm Eduardo Voigt! 👋</h1>
-<p align="left">Software Developer focused on web projects, practical systems, and business-oriented digital solutions.<br><br>
+<p align="left">Software Developer focused on practical systems, digital products, and business solutions.<br><br>
 I currently work with web development, landing pages, institutional websites, e-commerce, and independent systems.<br>I’m also deepening my studies in back-end development, Java, Spring Boot, SQL, and application architecture.</p>
 
 ---
