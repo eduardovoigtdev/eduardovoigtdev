@@ -4,6 +4,7 @@
 Desenvolvo sistemas web, painéis administrativos e produtos digitais voltados a necessidades reais de negócio. Minha atuação envolve implementação, manutenção e implantação de aplicações.
 Minha direção profissional é o desenvolvimento backend, enquanto construo a **Voigtware**, minha iniciativa de produtos próprios e soluções de software para empresas.
 
+
 ## Projetos em destaque
 
 ### Porticvs Prima - Voigtware
@@ -22,6 +23,7 @@ Conta com painel administrativo para gerenciar editais, artigos, banners e desta
 
 Projeto básico de gestão financeira pessoal, desenvolvido para praticar **lógica de programação com JavaScript** e utilizado como trabalho de conclusão da minha graduação em **Gestão Financeira**.
 Construído com **HTML, CSS e JavaScript puro**, inclui controle de receitas e despesas, metas, gráficos e persistência local com LocalStorage.
+
 
 ## Linguagens e ferramentas
 
@@ -43,17 +45,21 @@ Construído com **HTML, CSS e JavaScript puro**, inclui controle de receitas e d
   <img alt="Spring Boot" title="Spring Boot — em estudo" width="36" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
 </p>
 
+
 ## Direção profissional e estudos
 
 Meu foco de aprofundamento é **backend com Java, Spring Boot e SQL**, com atenção a APIs, modelagem de dados, regras de negócio, testes e segurança.
 A trilha também prevê Docker, integração contínua, AWS/Azure e mensageria com Kafka, aplicados progressivamente a projetos práticos.
+
 
 ## Voigtware
 
 A Voigtware é minha iniciativa para desenvolver e manter produtos próprios e soluções de software para empresas, com foco em necessidades específicas de negócio.
 O **Porticvs Prima** é seu primeiro produto. O modelo inicial combina uma base de código compartilhada com instalações independentes por cliente, reunindo desenvolvimento, hospedagem e manutenção.
 
+
 ---
+
 
 📍 Curitiba, Brasil  
 🎓 Engenharia de Software & Gestão Financeira
