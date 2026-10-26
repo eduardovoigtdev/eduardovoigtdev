@@ -2,7 +2,6 @@
 **Software Developer | Sistemas web, backend e produtos digitais**
 
 Desenvolvo sistemas web, painéis administrativos e produtos digitais voltados a necessidades reais de negócio. Minha atuação envolve implementação, manutenção e implantação de aplicações.
-
 Minha direção profissional é o desenvolvimento backend, enquanto construo a **Voigtware**, minha iniciativa de produtos próprios e soluções de software para empresas.
 
 ## Projetos em destaque
@@ -10,23 +9,18 @@ Minha direção profissional é o desenvolvimento backend, enquanto construo a *
 ### Porticvs Prima — Voigtware
 
 Plataforma de gerenciamento de landing pages e primeiro produto da Voigtware.
-
 Permite administrar páginas, publicações, versões e leads, com controle de acesso por perfil. Desenvolvida com **Next.js, TypeScript, Prisma e MySQL**.
-
 A evolução atual contempla hospedagem gerenciada em VPS, mantendo aplicação, banco de dados e domínio independentes por cliente.
 
 ### [Portal Enfermeira Elisa Baggio](https://portal.enfermeiraelisabaggio.com.br/)
 
 Portal dedicado à publicação de **editais e notícias da área de enfermagem**, com foco em concursos públicos e processos seletivos de residência.
-
 Conta com painel administrativo para gerenciar editais, artigos, banners e destaques, além de uploads, SEO e controle de acesso.
-
 **Tecnologias:** Next.js, TypeScript, Prisma e MySQL.
 
 ### [Iron Wallet](https://github.com/eduardovoigtdev/iron-wallet)
 
 Projeto básico de gestão financeira pessoal, desenvolvido para praticar **lógica de programação com JavaScript** e utilizado como trabalho de conclusão da minha graduação em **Gestão Financeira**.
-
 Construído com **HTML, CSS e JavaScript puro**, inclui controle de receitas e despesas, metas, gráficos e persistência local com LocalStorage.
 
 ## Linguagens e ferramentas
